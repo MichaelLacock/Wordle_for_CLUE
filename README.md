@@ -19,6 +19,9 @@ No keyboard?  No Problem!  You can cycle though the letters with the Clue’s �
 
 
 Disclaimer:
+
 This recreation of software is under fair-use and is not intended to compete or replace the original software in any way.  This was only intended as a fun project to see if I could recreate something awesome, that is all.
+
+Also, the “lib” folder in this project contains library files that I did not make.  The libraries were made mostly by Adafruit and the keyboard driver by arturo182.
 
 WORDLE for CLUE made by Michael Lacock, 2022
