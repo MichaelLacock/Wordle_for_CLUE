@@ -22,5 +22,3 @@ Disclaimer:
 This recreation of software is under fair-use and is not intended to compete or replace the original software in any way.  This was only intended as a fun project to see if I could recreate something awesome, that is all.
 
 WORDLE for CLUE made by Michael Lacock, 2022
-
-![image](https://user-images.githubusercontent.com/71791024/152662171-e99b295f-0f0a-459b-b208-ebe96ae4aacf.png)
