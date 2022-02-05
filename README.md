@@ -4,6 +4,11 @@ This project is a clone of the very popular word solving puzzle game Wordle; mad
 
 Custom Keyboard Hardware: https://github.com/MichaelLacock/Open-Blue
 
+*** Note that you may need to manually re-add the libraries, there really isn't a good way to re-package the required libraries.
+*** KeyBoard Driver library: https://github.com/arturo182/arturo182_CircuitPython_BBQ10Keyboard
+*** Circuit Python for CLUE: https://circuitpython.org/board/clue_nrf52840_express/
+*** Get 7.x Bundle here: https://circuitpython.org/libraries
+
 Setup:
 Once Circuit Python 7.x.x is up an running, just drag and drop the files/folders.  It should look something like this:
 
