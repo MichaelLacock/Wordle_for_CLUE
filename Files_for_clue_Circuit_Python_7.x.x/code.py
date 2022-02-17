@@ -3,6 +3,8 @@
 # ===== Michael Lacock, 2022 ======
 # =================================
 
+# UPDATED on 2-17-2022, made with new and modified word list.
+
 # Optional use of the BBQ10 Keyboard library by arturo182.
 # Works with the SolderParty and TTGO T-Watch BBQ10 keyboard driver board.
 
@@ -442,7 +444,7 @@ def get_day ():
 
     if not Year == 0:
         today = datetime(Year, Month, Day)
-        start_date = datetime(2021, 06, 19)
+        start_date = datetime(2021, 06, 18)
 
         day = (today - start_date).days
     else:
@@ -495,7 +497,7 @@ clear_screen()
 blank_squares()
 
 count = 1
-words_file = open('/local/words.txt', 'r')
+words_file = open('/local/words_new.txt', 'r')
 for line in words_file:
     if (count == day):
         word = line
