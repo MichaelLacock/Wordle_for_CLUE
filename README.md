@@ -1,5 +1,7 @@
 # Wordle_for_CLUE
 
+[-] UPDATED on 2-17-2022, features new and modified word list (it's accurate again).
+
 This project is a clone of the very popular word solving puzzle game Wordle; made for the Adafruit Clue hardware running Circuit Python 7.x.x. (Clue board: https://www.adafruit.com/product/4500)
 
 Custom Keyboard Hardware: https://github.com/MichaelLacock/Open-Blue
